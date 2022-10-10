@@ -1,0 +1,21 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=2774
+END=7759
+title=Demo viwer spec Validate with multiple users emails
+[CHAPTER]
+TIMEBASE=1/1000
+START=12608
+END=12750
+title=Demo viwer spec Should verify title
+[CHAPTER]
+TIMEBASE=1/1000
+START=12633
+END=12894
+title=Demo viwer spec Should check Access Demo btn
+[CHAPTER]
+TIMEBASE=1/1000
+START=10892
+END=13157
+title=Demo viwer spec Should redirect to demo link
