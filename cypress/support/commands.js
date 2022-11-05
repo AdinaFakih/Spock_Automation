@@ -23,6 +23,8 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+import 'cypress-file-upload';
+import '@testing-library/cypress/add-commands'
 Cypress.on(
     'uncaught:exception',
     (err) => !err.message.includes('ResizeObserver loop limit exceeded')
