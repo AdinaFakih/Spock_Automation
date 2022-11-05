@@ -1,0 +1,10 @@
+# dependency directories
+node_modules
+ 
+# files
+.env
+doc.md
+cypress/downloads
+cypress/screenshots
+cypress/videos
+cypress/fixtures/example.json
